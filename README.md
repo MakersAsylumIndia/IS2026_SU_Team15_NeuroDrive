@@ -1,4 +1,4 @@
-# IS2026 Spring - Omni Circuit
+# IS2026 Spring - NeuroDrive
 
 EMG-controlled robot car that uses muscle signals to drive, turn, and navigate without any traditional controller. By converting tiny electrical impulses from the human body into movement commands, we bridge the gap between humans and machines in a fun and innovative way.
 "Move your muscles. Move the machine." 💪🤖
