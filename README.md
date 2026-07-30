@@ -3,6 +3,13 @@
 EMG-controlled robot car that uses muscle signals to drive, turn, and navigate without any traditional controller. By converting tiny electrical impulses from the human body into movement commands, we bridge the gap between humans and machines in a fun and innovative way.
 "Move your muscles. Move the machine." 💪🤖
 
+# Prototype Photos
+
+<img src="/Photos_Videos/Images/prototype_01.jpeg" alt="Prototype" width="800" height="auto">
+
+<img src="/Photos_Videos/Images/prototype_02.jpeg" alt="Prototype" width="800" height="auto">
+
+
 # CAD RENDER
 
 <img src="/CAD/CAD%20Model%20EMG%20Robot%20Car%20v3_TechDraw01.png" alt="NeuroDrive CAD Render" width="800" height="auto">
