@@ -3,6 +3,9 @@
 EMG-controlled robot car that uses muscle signals to drive, turn, and navigate without any traditional controller. By converting tiny electrical impulses from the human body into movement commands, we bridge the gap between humans and machines in a fun and innovative way.
 "Move your muscles. Move the machine." 💪🤖
 
+# CAD RENDER
+
+<img src="/CAD/CAD%20Model%20EMG%20Robot%20Car%20v3_TechDraw01.png" alt="NeuroDrive CAD Render" width="800" height="auto">
 
 
 ## License
@@ -25,7 +28,17 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 ## 📬 Contact/Team
 
 > _List team members and contact emails or GitHub profiles._
-[@anool](https://github.com/Anool)
+
+[Aaliya Thakker](https://github.com/Aaliya17)
+
+[Abhay Gupta](https://github.com/abhiguppta-spec)
+
+[Kashvi Mummaneni](https://github.com/Kashvi-Mm)
+
+[Reyansh Bhimrajka](https://github.com/rbhimrajka)
+
+[Maker's Asylum](https://github.com/makersasylum)
+
+[Anool](https://github.com/Anool)
 > 
->
 > ---
