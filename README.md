@@ -5,6 +5,8 @@ EMG-controlled robot car that uses muscle signals to drive, turn, and navigate w
 
 # Prototype Photos
 
+<img src="/Photos_Videos/Images/prototype_03.jpeg" alt="Prototype" width="800" height="auto">
+
 <img src="/Photos_Videos/Images/prototype_01.jpeg" alt="Prototype" width="800" height="auto">
 
 <img src="/Photos_Videos/Images/prototype_02.jpeg" alt="Prototype" width="800" height="auto">
